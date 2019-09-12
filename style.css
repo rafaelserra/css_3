@@ -1,0 +1,80 @@
+p{
+	color: white;
+	font-size: 15px;
+	font-family: chancery;
+	text-shadow: 1px 1px 1px brown; 
+}
+body{
+	background-color: black;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Comic Sans MS;
+}
+
+header{
+	background-color: #35b8b0;
+	height: 140px;
+	padding: 10px;
+}
+
+footer{
+	clear: both;
+	background-color:#35b8b0;
+	height: 50px;
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+#principal{
+	background-image: url(https://hdqwalls.com/download/cyberpunk-neon-city-s0-3840x2160.jpg);
+	clear: both;
+	background-size: 100%;
+	min-height: 700px;
+	padding: 100px;
+}
+
+#logo{
+	float: left;
+}
+
+#menu{
+	margin-top: 20px;
+	float: right;
+}
+
+#menu a{
+	padding: 7px 5px;
+	text-decoration: none;
+	color: #111;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+#menu a:hover{
+	background-color: purple;
+	color: #35b8b0;
+}
+
+.container{
+	width: 960px;
+	margin: 0 auto;
+}
+
+
+
+.efeito{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding:  80px 0 80px 0;
+}
+
+h3 {
+	color: #000000;
+	background-color: rgba(213, 0, 241, 0.555);
+	border-width: medium;
+	border-style: solid;
+	border-color: #F00;
+		}
